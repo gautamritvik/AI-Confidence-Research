@@ -29,7 +29,6 @@ research/            # Research question notes and planning
 
 - Qwen 2.5 3B Instruct
 - Qwen 2.5 1.5B Instruct
-- Phi-3 Mini 3.8B Instruct
 
 ## Key Features Analyzed
 
@@ -55,4 +54,4 @@ research/            # Research question notes and planning
 
 ## Status
 
-Experiment running. Analysis and paper writing in progress.
+Data collection complete (2,000 responses across 2 models). Analysis and paper writing in progress.
