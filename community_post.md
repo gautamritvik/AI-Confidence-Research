@@ -1,6 +1,10 @@
-# I tested when LLMs are "confidently wrong" — here's what I found
+# I used an AI to research when LLMs are "confidently wrong" — here's what we found
 
-I ran an experiment to figure out what makes LLMs answer questions with high confidence but get them wrong. Instead of just measuring overall calibration like most papers do, I looked at what properties of individual questions predict confident failures.
+**Full disclosure**: I'm a 14-year-old high school freshman. I came up with the original idea and direction for this project, but an AI assistant (Claude) did the actual research work — the literature review, experiment design, code, statistical analysis, and paper writing. I set the constraints (free models only, what datasets to use, etc.) and made decisions along the way, but I want to be upfront that I didn't write the code or conduct the analysis myself. This was a learning project to understand how AI research actually works.
+
+---
+
+An AI assistant ran an experiment to figure out what makes LLMs answer questions with high confidence but get them wrong. Instead of just measuring overall calibration like most papers do, we looked at what properties of individual questions predict confident failures.
 
 ## Setup
 
@@ -9,7 +13,7 @@ I ran an experiment to figure out what makes LLMs answer questions with high con
 - Each model answers the question and gives a confidence score (0-100)
 - A "confident failure" = wrong answer + confidence >= 80%
 
-I annotated each question with features like:
+Each question was annotated with features like:
 - Answer option similarity (how semantically close the 4 choices are, using sentence-BERT)
 - Numerical content
 - Negation (NOT, EXCEPT, etc.)
@@ -68,6 +72,24 @@ Everything is open source:
 - Full paper (PDF), experiment code, Colab notebook, literature review, and all results/figures included
 - Ran entirely on a free Google Colab T4 GPU
 
-Built this as a personal learning project to understand how LLM calibration research works. Not claiming this is publication-ready — but the option similarity finding is genuinely novel. No prior paper in the calibration literature has tested this variable.
+## How this was made
+
+I want to be completely transparent about this. My role was:
+- Coming up with the original idea (studying LLM confidence/overconfidence)
+- Setting constraints (free models, budget, platform choices)
+- Making directional decisions (which research question, which datasets)
+- Learning from the process
+
+The AI assistant (Claude, via OpenCode) did:
+- Reading and analyzing all 9 research papers
+- Identifying the research gap
+- Designing the full experiment
+- Writing all Python code and the Colab notebook
+- Debugging every error
+- Running the statistical analysis
+- Writing the research paper
+- Setting up the GitHub repo
+
+This is NOT my own independent research. It's an AI-assisted learning project. I'm sharing it because the findings are interesting and the process taught me a lot about how research works — but credit for the technical and intellectual work belongs to the AI tool.
 
 Feedback welcome!

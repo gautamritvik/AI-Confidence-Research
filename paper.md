@@ -284,3 +284,9 @@ Tian, K., Mitchell, E., Yao, H., Manning, C. D., & Finn, C. (2023). Just ask for
 Xiao, Y., et al. (2025). The consistency hypothesis in uncertainty quantification for large language models. *Proceedings of the Conference on Uncertainty in Artificial Intelligence*.
 
 Zhang, X., et al. (2024). Calibrating the confidence of large language models by eliciting fidelity. *arXiv preprint arXiv:2404.xxxxx*.
+
+---
+
+## Disclosure
+
+This paper was produced as an educational project. The original idea and research direction were provided by the author (a high school student). All technical work — including the literature review, research gap identification, experiment design, code implementation, statistical analysis, and paper writing — was performed by an AI assistant (Claude, via OpenCode). This is not independent research and should not be cited or treated as such.
