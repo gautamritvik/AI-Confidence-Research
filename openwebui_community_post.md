@@ -1,6 +1,7 @@
 # I used an AI to research when LLMs are "confidently wrong" — here's what we found
+***Note: This is a small hobby project I did just to understand research projects more, but Noctis, the AI Study Companion I made that knows your Canvas, Calendar, and Curriculum is NOT scrapped yet. Here is the link to the "brain" overview of Noctis: https://github.com/gautamritvik/Noctis***
 
-***Note: This is a small hobby project I did just to understand research projects more, but Noctis, the AI Study Companion I made that knows your Canvas, Calendar, and Curriculum is NOT scrapped yet.***
+---
 
 **Full disclosure**: I came up with the original idea and direction for this project, but an AI assistant (Claude) did the actual research work — the literature review, experiment design, code, statistical analysis, and paper writing. I set the constraints (free models only, what datasets to use, etc. due to money restrictions) and made decisions along the way, but I want to be upfront that I didn't write the code or conduct the analysis myself. This was a learning project to understand how AI research actually works.
 
