@@ -1,4 +1,7 @@
 # AI-Confidence-Research
+***Note: This is a small hobby project I did just to understand research projects more, but Noctis, the AI Study Companion I made that knows your Canvas, Calendar, and Curriculum is NOT scrapped yet.***
+
+---
 
 A research project investigating what structural and semantic properties of questions cause large language models to be confidently wrong — studying confidence miscalibration across multiple LLMs and question types using MMLU, ARC-Challenge, and TruthfulQA.
 
