@@ -1,5 +1,5 @@
 # AI-Confidence-Research
-***Note: This is a small hobby project I did just to understand research projects more, but Noctis, the AI Study Companion I made that knows your Canvas, Calendar, and Curriculum is NOT scrapped yet.***
+***Note: This is a small hobby project I did just to understand research projects more, but Noctis, the AI Study Companion I made that knows your Canvas, Calendar, and Curriculum is NOT scrapped yet. Here is the link to the "brain" overview of Noctis: https://github.com/gautamritvik/Noctis***
 
 ---
 
