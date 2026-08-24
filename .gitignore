@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files (too large for GitHub)
+experiment/data/*.parquet
+experiment/data/_progress_*.json
+experiment/data/*.csv
+
+# PDFs (copyrighted papers)
+literature/papers/*.pdf
+
+# Extracted text from papers
+literature/notes/extracted/
+
+# Apple Numbers (binary, not diffable)
+literature/*.numbers
+
+# Ollama/model files
+*.bin
+*.safetensors
+
+# Results will be committed after experiment completes
