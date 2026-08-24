@@ -1,0 +1,8 @@
+feature,importance
+option_similarity,0.415825925594602
+question_length,0.2782221214577502
+model_encoded,0.09449489567813797
+has_numerical,0.08282415067840519
+domain_encoded,0.08174081499885451
+has_misleading_premise,0.030372651663864905
+has_negation,0.016519439928385105
