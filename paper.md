@@ -289,4 +289,4 @@ Zhang, X., et al. (2024). Calibrating the confidence of large language models by
 
 ## Disclosure
 
-This paper was produced as an educational project. The original idea and research direction were provided by the author (a high school student). All technical work — including the literature review, research gap identification, experiment design, code implementation, statistical analysis, and paper writing — was performed by an AI assistant (Claude, via OpenCode). This is not independent research and should not be cited or treated as such.
+This paper was produced as an educational project. The original idea and research direction were provided by the author. All technical work — including the literature review, research gap identification, experiment design, code implementation, statistical analysis, and paper writing — was performed by an AI assistant (Claude, via OpenCode). This is not independent research and should not be cited or treated as such.

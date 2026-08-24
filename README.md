@@ -58,4 +58,4 @@ Data collection complete (2,000 responses across 2 models). Analysis and paper c
 
 ## Disclosure
 
-This project was built as a personal learning exercise by a high school freshman. The original idea and direction came from me, and I set the constraints and made decisions throughout. However, the actual research work — literature analysis, experiment design, code, statistical analysis, and paper writing — was done by an AI assistant (Claude, via OpenCode). This is not independent research. Full transparency on what the AI did vs. what I did is documented in `community_post.md`.
+This project was built as a personal learning exercise. The original idea and direction came from me, and I set the constraints and made decisions throughout. However, the actual research work — literature analysis, experiment design, code, statistical analysis, and paper writing — was done by an AI assistant (Claude, via OpenCode). This is not independent research. Full transparency on what the AI did vs. what I did is documented in `community_post.md`.
